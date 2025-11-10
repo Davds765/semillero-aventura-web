@@ -39,7 +39,7 @@ El objetivo principal fue poner en práctica conceptos fundamentales del desarro
 
 ## 📦 Cómo ejecutar el proyecto ##
 
-1. Copia el repositorio: file:///C:/Users/313C%20-%2001/Desktop/semillero-aventura-web/index.html
+1. Copia el repositorio: https://idyllic-sprinkles-f742e7.netlify.app/ 
   
 3. Entra en la carpeta del proyecto.
 
